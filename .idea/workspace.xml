@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8574dac-5d53-48a2-8597-83511da37fee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8574dac-5d53-48a2-8597-83511da37fee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ioyan/Desktop/TINGESO PEP2/config-server",
+    "last_opened_file_path": "C:/Users/ioyan/Desktop/TINGESO PEP2/config-server/demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,7 +62,7 @@
       <workItem from="1715990443536" duration="92000" />
       <workItem from="1716161790310" duration="28000" />
       <workItem from="1716618000507" duration="192000" />
-      <workItem from="1716685767571" duration="710000" />
+      <workItem from="1716685767571" duration="846000" />
     </task>
     <servers />
   </component>
